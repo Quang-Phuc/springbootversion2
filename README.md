@@ -11,3 +11,6 @@ https://medium.com/@gustavo.ponce.ch/spring-boot-spring-mvc-spring-security-mysq
 
 - http://localhost:8080/registration
 - http://localhost:8080/login
+# springbootversion2
+Da khac phuc duoc loi hom trc
+Hien dang con loi map Object va table(CSDL)
